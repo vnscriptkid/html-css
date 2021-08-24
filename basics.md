@@ -12,3 +12,14 @@
 
 ## Links
 <img height="200px" src="https://user-images.githubusercontent.com/28957748/130650881-5f617be0-0d18-402f-9887-7be6117c0d8c.png" />
+
+## Images
+https://unsplash.com/
+```css
+img {
+    width: 800px;
+    height: 200px;
+    // within the box, remains the ratio
+    object-fit: cover;
+}
+```

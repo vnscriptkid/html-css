@@ -4,3 +4,8 @@
 
 ## Heading
 - Only 1 `<h1>` for one page. Do not confuse search engine
+
+## Entities
+- Hey, it's just text i don't mean tag: `&lt;` ; `&gt;` &lt;HTML&gt;
+- Fancy symbols: `&copy;` &copy;
+- Do not break line there: `&nbsp;` (not breaking space)

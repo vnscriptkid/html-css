@@ -7,3 +7,7 @@
 - Select code
 - `Ctrl` + `Shift` + `P` => Wrap
 - Type: strong
+
+#### :two: Zen Coding
+- `li*3`
+- `lorem100`

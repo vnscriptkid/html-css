@@ -31,3 +31,14 @@ https://www.pexels.com/
     Your browser doesn't support videos.
 </video>
 ```
+
+## Tables
+```css
+table,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+```

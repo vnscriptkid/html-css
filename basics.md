@@ -1,2 +1,3 @@
-## Why not <i>, <b>:
-- HTML is not meant for styling
+## Why not `<i>`, `<b>`:
+- HTML is not intended for styling, use css instead
+- Alternative: `<em>`, `<strong>`

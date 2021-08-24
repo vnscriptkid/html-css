@@ -42,3 +42,11 @@ th {
     padding: 5px;
 }
 ```
+
+## Element Types
+- Block
+    - Starts in a new line
+    - Fill up entire available space
+    - Example: `<p>`, `<div>`
+- Inline
+    - Example: `<span>`

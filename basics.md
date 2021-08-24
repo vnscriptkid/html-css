@@ -19,7 +19,7 @@ https://unsplash.com/
 img {
     width: 800px;
     height: 200px;
-    // within the box, remains the ratio
+    /* within the box, remains the ratio */
     object-fit: cover;
 }
 ```

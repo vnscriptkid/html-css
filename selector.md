@@ -32,3 +32,7 @@ div p:first-of-type { }
 ```css
 ul li:last-child { }
 ```
+#### Odd children of ul with type li
+```css
+ul li:nth-child(odd) { }
+```

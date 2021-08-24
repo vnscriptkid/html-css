@@ -20,11 +20,15 @@
 ```
 
 ## :star: Psuedo-class selectors
-#### First child
+#### First child of ul with any type
 ```css
 ul :first-child { }
 ```
-#### First of type p
+#### First child of div with type p
 ```css
 div p:first-of-type { }
+```
+#### Last child of ul with type li
+```css
+ul li:last-child { }
 ```

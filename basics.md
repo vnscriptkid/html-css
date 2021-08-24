@@ -26,3 +26,8 @@ img {
 
 ## Videos
 https://www.pexels.com/
+```html
+<video controls autoplay loop width="300px" src="videos/ocean.mp4">
+    Your browser doesn't support videos.
+</video>
+```

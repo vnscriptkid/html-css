@@ -104,3 +104,6 @@ p span {
   border: inherit;
 }
 ```
+
+## :star: Color
+<img src="https://user-images.githubusercontent.com/28957748/130728301-bf7228dd-19ec-42fd-8c8f-77590750721c.png" width="700px" />

@@ -127,3 +127,14 @@ https://cssgradient.io/
 ```
 - Radius
 https://css-tricks.com/the-shapes-of-css/
+
+## :star: Shadow
+```css
+.box {
+  box-shadow: 0 0 30px grey;
+}
+
+h1 {
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+```

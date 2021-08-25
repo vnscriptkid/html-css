@@ -1,5 +1,5 @@
 ## Checklist
-- Normalize.css
+- Normalize.css: Make all browsers look the same
 
 ## Link
 ```css

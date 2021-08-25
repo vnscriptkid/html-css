@@ -80,3 +80,8 @@ p::after {
   content: "...";
   display: block;
 }
+```
+
+## :star: Specificity
+
+<img src="https://user-images.githubusercontent.com/28957748/130725958-58558859-121f-4591-9da4-6f31791e428c.png" width="700px" />

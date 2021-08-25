@@ -19,7 +19,7 @@
 .product ~ p {}
 ```
 
-## :star: Psuedo-class selectors
+## :star: Pseudo-class selectors (Style elements at a particular state)
 #### First child of ul with any type
 ```css
 ul :first-child { }
@@ -36,3 +36,47 @@ ul li:last-child { }
 ```css
 ul li:nth-child(odd) { }
 ```
+#### Links at different states
+```css
+a:visited,
+a:link {
+  color: dodgerblue;
+}
+
+a:hover,
+a:focus {
+  color: deeppink;
+}
+```
+
+## :star: Pseudo-elements (style part of element)
+#### First letter of element p
+```css
+p::first-letter {
+  font-size: 300%;
+  font-weight: bold;
+}
+```
+#### First line of element p
+```css
+p::first-line {
+  color: red;
+}
+```
+#### Selection part of any element
+```css
+::selection {
+  background-color: pink;
+}
+```
+#### Append pseudo-element to head of p && end of p
+```css
+/* inline element by default */
+p::before {
+  content: "..."
+}
+
+p::after {
+  content: "...";
+  display: block;
+}

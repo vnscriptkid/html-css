@@ -117,3 +117,13 @@ https://cssgradient.io/
   background: linear-gradient(to right, yellow, green);
 }
 ```
+
+## :star: Border
+- Width, type, color
+```css
+.box {
+  border: 1px solid black;
+}
+```
+- Radius
+https://css-tricks.com/the-shapes-of-css/

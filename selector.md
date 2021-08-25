@@ -110,3 +110,10 @@ p span {
 
 ## :star: Gradients
 https://cssgradient.io/
+```css
+.box {
+  height: 500px;
+  width: 900px;
+  background: linear-gradient(to right, yellow, green);
+}
+```

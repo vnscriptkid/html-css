@@ -85,3 +85,22 @@ p::after {
 ## :star: Specificity
 
 <img src="https://user-images.githubusercontent.com/28957748/130725958-58558859-121f-4591-9da4-6f31791e428c.png" width="700px" />
+
+## :star: Inheritance
+- Usecase 1: Font color is __inherited__ by default (from parent)
+```css
+/* Force it not */
+p span {
+  color: initial;
+}
+```
+- Usecase 2: Border is __not inherited__ by default (from parent)
+```css
+p {
+  border: 1px solid black;
+}
+/* Force it to inherit */
+p span {
+  border: inherit;
+}
+```
